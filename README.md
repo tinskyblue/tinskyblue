@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 ## 🌱 Tech Stack 🌱
 
   
-![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+
 <br>
 
 <!-- ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) -->
